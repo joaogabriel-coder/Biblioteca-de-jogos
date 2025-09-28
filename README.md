@@ -16,7 +16,7 @@ Projeto full stack para resolução da atividade da matéria de linguagem de pro
 1. Clone este repositório:
 
 ```bash
-git clone https://github.com/joaogabriel-coder/Projeto-full.git
+git clone https://github.com/joaogabriel-coder/Biblioteca-de-jogos.git
 
 Entre no diretório do backend:
 
